@@ -1,0 +1,22 @@
+footer {
+    display: flex;
+    justify-content: space-between;
+    margin: 180px 50px 88px;
+}
+
+.footer__navigation__list {
+    flex-direction: column;
+    text-align: center;
+    margin-left: 40px;
+}
+
+.social__network {
+    display: flex;
+    gap: 48px;
+}
+
+.social__network__image {
+    width: 48px;
+    height: 48px;
+    border-width: 1px;
+}

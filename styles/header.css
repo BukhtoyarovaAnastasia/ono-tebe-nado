@@ -1,0 +1,44 @@
+.header {
+    margin: 92px 24px 96px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navigation__header {
+    padding: 44px 36px 39px 26.52px;
+}
+
+.header__navigation__list{
+    gap: 33px;
+}
+
+.navigation__list {
+    display: flex;
+    justify-content: space-between;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.navigation__list__items {
+    list-style: circle;
+}
+
+.items__no-bullit {
+    list-style: none;
+}
+
+.header__logo-image {
+    width: 129.11px;
+    height: 104.65px;
+}
+
+.contacts__header {
+    padding: 5px 60px 2px 184px;
+}
+
+.contacts__list {
+    list-style: none;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24.3px;
+}
